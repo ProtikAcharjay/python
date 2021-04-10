@@ -3,7 +3,7 @@ while(True):
     computer_score=0
     user_score=0
     round=0
-    print("::Welcome to stone paper sessor game::")
+    print("::Welcome to stone paper sessor game::_Developed by Protik Acharjay")
     print("you have 11 chances")
     choice=["s","p","r"]
 
